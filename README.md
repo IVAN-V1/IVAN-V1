@@ -1,6 +1,6 @@
 ### Hola soy IVAN_V1 👋
 ![Butto](desa.svg)
-# Mis Aplicaiones
+# Mis Aplicaciones
 ![Butto](app_1.svg)
 <!--
 **IVAN-V1/IVAN-V1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
